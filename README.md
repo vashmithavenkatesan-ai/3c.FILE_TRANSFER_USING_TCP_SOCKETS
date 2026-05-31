@@ -51,7 +51,10 @@ s.close()
 ```
 ## OUTPUT
 client
-vTp7sE
+<img width="1846" height="963" alt="Screenshot 2026-05-28 214057" src="https://github.com/user-attachments/assets/52014b96-b95d-4020-8ed1-67e3f5d18c70" />
+server
+<img width="1850" height="969" alt="Screenshot 2026-05-28 214040" src="https://github.com/user-attachments/assets/f18ee0b8-40f6-4d0b-a567-e3f6b886105a" />
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
